@@ -22,6 +22,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\HelloWorld\HelloWorld.csproj" />
+    <ProjectReference Include="..\LC\LC.csproj" />
   </ItemGroup>
 
 </Project>
