@@ -54,6 +54,5 @@ namespace LC
 
             return result;
         }
-
     }
 }

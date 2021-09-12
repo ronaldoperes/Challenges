@@ -1,6 +1,6 @@
-﻿using Xunit;
-using FluentAssertions;
+﻿using FluentAssertions;
 using LC;
+using Xunit;
 
 namespace TestProject
 {
