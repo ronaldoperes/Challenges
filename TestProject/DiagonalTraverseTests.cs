@@ -1,7 +1,6 @@
 ﻿using FluentAssertions;
 using LC;
 using Xunit;
-using Xunit.Abstractions;
 
 namespace TestProject
 {
