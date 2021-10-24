@@ -12,7 +12,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Etc", "Etc", "{A99E7008-85A
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC", "LC\LC.csproj", "{20256725-3C74-49B3-81FB-1F49344E2139}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LC", "LC\LC.csproj", "{20256725-3C74-49B3-81FB-1F49344E2139}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppCodes", "WebAppCodes\WebAppCodes.csproj", "{F470A037-1332-4B7D-B20A-1B3348D62409}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -32,6 +34,10 @@ Global
 		{20256725-3C74-49B3-81FB-1F49344E2139}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20256725-3C74-49B3-81FB-1F49344E2139}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20256725-3C74-49B3-81FB-1F49344E2139}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F470A037-1332-4B7D-B20A-1B3348D62409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F470A037-1332-4B7D-B20A-1B3348D62409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F470A037-1332-4B7D-B20A-1B3348D62409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F470A037-1332-4B7D-B20A-1B3348D62409}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
