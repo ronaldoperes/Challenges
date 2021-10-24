@@ -10,7 +10,7 @@ namespace WebAppCodes.Controllers
         [HttpGet]
         public IActionResult Index()
         {
-            var s = ExLinq.BasicAggregate();
+            var s = ExLinq.Grouping();
             return Ok(s);
         }
 
